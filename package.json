@@ -1,0 +1,22 @@
+{
+  "name": "code2img",
+  "version": "1.0.0",
+  "description": "code2img && img2code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GYPengWEB/code2img.git"
+  },
+  "keywords": [
+    "wling.157"
+  ],
+  "author": "GYPeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GYPengWEB/code2img/issues"
+  },
+  "homepage": "https://github.com/GYPengWEB/code2img#readme"
+}
