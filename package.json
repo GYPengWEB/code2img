@@ -1,6 +1,6 @@
 {
   "name": "code2img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "code2img && img2code",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,13 @@
   "keywords": [
     "wling.157"
   ],
-  "author": "GYPeng",
+  "author": "gypeng",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GYPengWEB/code2img/issues"
   },
-  "homepage": "https://github.com/GYPengWEB/code2img#readme"
+  "homepage": "https://github.com/GYPengWEB/code2img#readme",
+  "dependencies": {
+    "canvas": "^2.5.0"
+  }
 }
